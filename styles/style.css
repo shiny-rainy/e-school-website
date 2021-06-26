@@ -21,11 +21,13 @@ body{
     height: 45px;
     border-radius: 33px;
     border: none;
+   transition: .5s all;
 }
 .btn-success:hover{
     background-color: white;
     color: #21B573;
     border: 1px solid #21B573;
+    transition: 1s all ;
 }
 .btn2{
     width: 160px;
@@ -34,11 +36,13 @@ body{
     border: none;
     border-radius: 35px;
     color: white;
+    transition: .5s all
 }
 .btn2:hover{
     color: #21B573;
     background-color: white;
     border: 1px solid #21B573;
+    transition: 1s all ;
 }
 .t-1{
     color: #FD511A;
@@ -67,6 +71,7 @@ body{
 .cd1{
     border-radius: 10px;
     height: 270px;
+    transition: 1s all;
 }
 .t-4{
     font-family: Poppins;
@@ -76,7 +81,6 @@ body{
     line-height: 36px;
     letter-spacing: 0em;
     color: #413960;
-
 }
 .t-5{
     color: #6C6B6B;
@@ -100,6 +104,7 @@ body{
     border-radius: 18px;
     height: 450px;
     border: 1px solid lavender;
+    transition: 1s all;
 }
 .cd1:hover{
     box-shadow: 6px 8px 12px 3px rgba(104,107,107,0.73);
